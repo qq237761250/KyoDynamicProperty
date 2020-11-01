@@ -1,0 +1,22 @@
+# OS X
+.DS_Store
+*.xccheckout
+profile
+DerivedData
+*~
+*.lock
+Pods
+Pods/
+build/
+*.ipa
+
+*.xcuserstate  
+project.xcworkspace  
+xcuserdata  
+xcshareddata 
+UserInterfaceState.xcuserstate  
+project.xcworkspace/  
+xcuserdata/  
+UserInterface.xcuserstate
+2.2.0-0820 20:39-orange.png
+2.2.0-0820 20:40-orange.png

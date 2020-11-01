@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KyoDynamicProperty_Example' do
+  pod 'KyoDynamicProperty', :path => '../'
+
+  target 'KyoDynamicProperty_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
